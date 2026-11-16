@@ -1,2 +1,1 @@
 qrcode[pil]==7.4.2
-flask==3.0.3
